@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AnaSofia</string>
+    <string name="componentes">Componentes Basicos</string>
+    <string name="radioButton">RadioButton</string>
+    <string name="rad1">Opcion A</string>
+    <string name="rad2">Opcion B</string>
+    <string name="checkBox">CheckBox</string>
+    <string name="checkbox1">Opcion 1</string>
+    <string name="checkbox2">Opcion 2</string>
+    <string name="toogleButton">ToogleButton</string>
+    <string name="Switch">Switch</string>
+    <string name="imagenButton">Imagen Button</string>
+</resources>
